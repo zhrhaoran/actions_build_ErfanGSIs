@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://a262fej42o3ivmmk1gtrdb18mf0eavm9t3isdeukrp08ta3c87lvv2eq.qc.x.bsgslb.cn:7843/xdispatch733492dc7724f59a/bigota.d.miui.com/V12.0.3.0.QDTMIXM/miui_MI8LiteGlobal_V12.0.3.0.QDTMIXM_ac83b9d20c_10.0.zip?BSLuBan=eyJob3N0IjoiYmlnb3RhLmQubWl1aS5jb20iLCJic3JlcWlkIjoiNDljNGRmYjFiYmM2NDY2ZjNkZTMyMTA4NTgyMzM5MWYiLCJjYWNoZV9rZXkiOiJcL1YxMi4wLjMuMC5RRFRNSVhNXC9taXVpX01JOExpdGVHbG9iYWxfVjEyLjAuMy4wLlFEVE1JWE1fYWM4M2I5ZDIwY18xMC4wLnppcCIsImRuc19ob3N0IjoienhtcGYudi50cnBjZG4ubmV0Iiwia2V5IjoiYTllMDVjYTllYWZkNTFkODEyYjQ5OGQzNDE4ZTI2MDYiLCJ0cyI6MTY1NzE4MDUzM30=
+  ROM_URL: http://bigota.d.miui.com/V12.5.1.0.QDTCNXM/miui_MI8Lite_V12.5.1.0.QDTCNXM_c02c6bcfb0_10.0.zip
   ROM_NAME: MIUI
   BUILD_TYPE: Aonly
   TZ: Asia/Shanghai
